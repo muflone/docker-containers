@@ -1,3 +1,6 @@
 [submodule "acroread"]
 	path = acroread
 	url = https://github.com/muflone/docker-acroread.git
+[submodule "certbot"]
+	path = certbot
+	url = https://github.com/muflone/docker-certbot.git
