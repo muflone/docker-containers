@@ -4,3 +4,6 @@
 [submodule "certbot"]
 	path = certbot
 	url = https://github.com/muflone/docker-certbot.git
+[submodule "firefox-esr52"]
+	path = firefox-esr52
+	url = https://github.com/muflone/docker-firefox-esr52.git
