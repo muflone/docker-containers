@@ -1,0 +1,3 @@
+[submodule "acroread"]
+	path = acroread
+	url = https://github.com/muflone/docker-acroread.git
