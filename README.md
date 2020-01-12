@@ -21,5 +21,5 @@ Installation
 
 Clone this project, choose any desired container subfolder and start it using:
 
-cd container-name
-docker-compose up -d
+    cd container-name
+    docker-compose up -d
