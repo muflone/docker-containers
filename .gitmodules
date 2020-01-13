@@ -10,3 +10,6 @@
 [submodule "postgres"]
 	path = postgres
 	url = https://github.com/muflone/docker-postgres.git
+[submodule "odoo"]
+	path = odoo
+	url = https://github.com/muflone/docker-odoo.git
