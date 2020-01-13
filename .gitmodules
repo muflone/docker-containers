@@ -13,3 +13,6 @@
 [submodule "odoo"]
 	path = odoo
 	url = https://github.com/muflone/docker-odoo.git
+[submodule "portainer"]
+	path = portainer
+	url = https://github.com/muflone/docker-portainer.git
