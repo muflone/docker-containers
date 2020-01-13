@@ -7,3 +7,6 @@
 [submodule "firefox-esr52"]
 	path = firefox-esr52
 	url = https://github.com/muflone/docker-firefox-esr52.git
+[submodule "postgres"]
+	path = postgres
+	url = https://github.com/muflone/docker-postgres.git
