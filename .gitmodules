@@ -16,3 +16,6 @@
 [submodule "portainer"]
 	path = portainer
 	url = https://github.com/muflone/docker-portainer.git
+[submodule "gitlab"]
+	path = gitlab
+	url = https://github.com/muflone/docker-gitlab.git
